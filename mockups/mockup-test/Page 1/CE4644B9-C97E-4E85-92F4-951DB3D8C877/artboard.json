@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "2f975fd0-6b1e-11e7-8a00-254833071da8",
+  "_class": "artboard",
+  "do_objectID": "CE4644B9-C97E-4E85-92F4-951DB3D8C877",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 1024,
+    "x": 1870,
+    "y": -12
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Page 1",
+  "name": "Desktop",
   "nameIsFixed": false,
   "resizingType": 0,
   "rotation": 0,
@@ -35,19 +35,36 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "CE4644B9-C97E-4E85-92F4-951DB3D8C877",
-      "class": "artboard"
+      "id": "1DBF6A45-EE9F-473B-B21C-AE64F7C5E601",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "FAC16C1E-6590-4E00-9D7A-D8479F334AEB",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "8FD01910-FB68-47B7-BDF9-A91EFE7B396A",
+      "class": "text"
     }
   ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": []
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": []
   }
 }
